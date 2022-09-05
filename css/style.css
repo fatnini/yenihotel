@@ -256,6 +256,16 @@ h3 {
 }
 
 @media(max-width: 992px) {
+    .room-content h4 {
+        font-size: 32px;
+        padding: 40px;
+    }
+    .room-content .box {
+        width: 172px;
+        height: 32px;
+        top: 56px;
+        left: 34px;
+    }
     .room-content p {
         font-size: 24px;
         line-height: 1.5;
